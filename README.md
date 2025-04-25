@@ -1,15 +1,16 @@
 # Frist_Project
 ![Image](https://github.com/user-attachments/assets/b1d6ba6f-e452-4d17-9c78-771c2b38d2c0)
 ![Image](https://github.com/user-attachments/assets/84957552-4bbc-4c92-afce-45fb60b2211b)
+![Image](https://github.com/user-attachments/assets/9ef4f833-8a21-4083-b503-92899bc0e1da)
 - [Demo Project]( https://hosseinsaedmohkam.github.io/Frist_Project/)
 
 - Developed by Hossein saedmohkam
 
-- Created : 04/25/2025
+- Master : Parsa Ghorbanian 
 
 - Technologies Used - Html , css  
 
-- Master : Parsa Ghorbanian
+-Created : 04/25/2025
 
 - Role - Frontend
 
