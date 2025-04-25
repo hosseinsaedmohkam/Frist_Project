@@ -1,6 +1,5 @@
 # Frist_Project
-![viewfinal](https://github.com/hosseinsaedmohkam/Frist_Project/issues/1#issue-3020836315)
-https://github.com/hosseinsaedmohkam/Frist_Project/issues/1#issue-3020836315
+![Image](https://github.com/user-attachments/assets/719809ee-d3b6-44d8-a2d6-a1d1f4332c4c)
 
 - [Demo Project]( https://hosseinsaedmohkam.github.io/Frist_Project/)
 
