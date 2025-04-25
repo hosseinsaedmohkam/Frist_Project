@@ -1,5 +1,5 @@
 # Frist_Project
-![Image](https://github.com/user-attachments/assets/719809ee-d3b6-44d8-a2d6-a1d1f4332c4c)
+![Image](https://github.com/user-attachments/assets/b1d6ba6f-e452-4d17-9c78-771c2b38d2c0)
 
 - [Demo Project]( https://hosseinsaedmohkam.github.io/Frist_Project/)
 
